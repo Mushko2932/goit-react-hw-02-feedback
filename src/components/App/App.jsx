@@ -3,7 +3,6 @@ import React from 'react';
 import { Statistics } from 'components/Statistics/Statistics';
 import { FeedbackOptions } from 'components/FeedbackOptions/FeedbackOptions';
 import { Section } from 'components/Section/Section';
-import { Notification } from 'components/Notification/Notification';
 
 export class App extends React.Component {
   // static propTypes = {}
